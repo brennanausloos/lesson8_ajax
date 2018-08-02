@@ -13,7 +13,7 @@ Brennan Ausloos
 In this project I was tasked with using TMDB's API in my java code to display six different features of any movie title entered into the program.
 
 ### View Project:
-https://github.com/brennanausloos/lesson8_ajax
+https://brennanausloos.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. In this lesson I learned how to request an API from TMDB website.
